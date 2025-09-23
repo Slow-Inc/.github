@@ -66,80 +66,6 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 #### 📁 Repository:
 🔗 **[GitHub - planet_management](https://github.com/Slow-Inc/planet_management)**
 
-### 🌐 Planet Management Website
-> **ระบบจัดการเว็บไซต์สำหรับชุมชน Planet City**
-
-เว็บไซต์จัดการที่พัฒนาขึ้นเพื่อรองรับระบบ Planet Management ประกอบด้วยระบบ Dashboard, User Management, และ Integration กับ Discord Bot
-
-#### ✨ คุณสมบัติเด่น:
-- 📊 **Dashboard System** - ระบบแดชบอร์ดจัดการข้อมูล
-- 👥 **User Management** - จัดการผู้ใช้งานและสิทธิ์
-- 🔗 **Discord Integration** - เชื่อมต่อกับ Discord Bot
-- 📱 **Responsive Design** - รองรับทุกอุปกรณ์
-- 🔐 **Authentication System** - ระบบล็อกอินที่ปลอดภัย
-- 📈 **Analytics & Reports** - ระบบรายงานและวิเคราะห์
-
-#### 🛠️ เทคโนโลยีที่ใช้:
-```
-• HTML5 & CSS3 - Frontend Structure
-• JavaScript (ES6+) - Client-side Logic
-• Bootstrap/Tailwind CSS - UI Framework
-• Node.js & Express - Backend Server
-• MongoDB/MySQL - Database Management
-• JWT Authentication - Security System
-```
-
-#### 📁 Repository:
-🔗 **[GitHub - Planet-Management-Website](https://github.com/Slow-Inc/Planet-Management-Website-main)**
-
-### 🎮 FiveM Lua Development
-> **การพัฒนา Scripts และ Resources สำหรับ FiveM Server**
-
-เราเชี่ยวชาญในการพัฒนา FiveM Scripts และ Resources ที่มีประสิทธิภาพสูง รองรับการใช้งานใน Roleplay Server และ Community Server
-
-#### ✨ ความเชี่ยวชาญ:
-- 🚗 **Vehicle Systems** - ระบบยานพาหนะและการปรับแต่ง
-- 🏠 **Property Management** - ระบบจัดการทรัพย์สินและบ้าน
-- 💼 **Job Systems** - ระบบอาชีพและการทำงาน
-- 🛒 **Shop & Economy** - ระบบร้านค้าและเศรษฐกิจ
-- 👮 **Police & Government** - ระบบตำรวจและรัฐบาล
-- 🏥 **Medical Systems** - ระบบการแพทย์และโรงพยาบาล
-- 📱 **Phone & Communication** - ระบบโทรศัพท์และการสื่อสาร
-
-#### 🔧 Technical Skills:
-```
-• Lua Programming - Core FiveM Language
-• ESX Framework - Popular RP Framework
-• MySQL Database - Data Management
-• Resource Optimization - Performance Tuning
-• Custom UI Development - NUI/HTML interfaces
-```
-
-### 🌐 Planet Management Website
-> **ระบบจัดการเว็บไซต์สำหรับชุมชน Planet City**
-
-เว็บไซต์จัดการที่พัฒนาขึ้นเพื่อรองรับระบบ Planet Management ประกอบด้วยระบบ Dashboard, User Management, และ Integration กับ Discord Bot
-
-#### ✨ คุณสมบัติเด่น:
-- 📊 **Dashboard System** - ระบบแดชบอร์ดจัดการข้อมูล
-- 👥 **User Management** - จัดการผู้ใช้งานและสิทธิ์
-- 🔗 **Discord Integration** - เชื่อมต่อกับ Discord Bot
-- 📱 **Responsive Design** - รองรับทุกอุปกรณ์
-- 🔐 **Authentication System** - ระบบล็อกอินที่ปลอดภัย
-- 📈 **Analytics & Reports** - ระบบรายงานและวิเคราะห์
-
-#### 🛠️ เทคโนโลยีที่ใช้:
-```
-• HTML5 & CSS3 - Frontend Structure
-• JavaScript (ES6+) - Client-side Logic
-• Bootstrap/Tailwind CSS - UI Framework
-• Node.js & Express - Backend Server
-• MongoDB/MySQL - Database Management
-• JWT Authentication - Security System
-```
-
-#### 📁 Repository:
-🔗 **[GitHub - Planet-Management-Website](https://github.com/Slow-Inc/Planet-Management-Website-main)**
 
 ### 🎮 FiveM Lua Development
 > **การพัฒนา Scripts และ Resources สำหรับ FiveM Server**
@@ -223,7 +149,7 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 
 ---
 
-## 🎨 เทคโนโลジีที่เราใช้
+## 🎨 เทคโนโลยีที่เราใช้
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -251,9 +177,6 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 
 ### 🎯 ผลงานโดดเด่น
 - ✅ **100%** Uptime สำหรับ Discord Bot หลัก
-- 🚀 **1000+** คำขอ Whitelist ที่ประมวลผลแล้ว
-- 📊 **500+** QR Code ที่สแกนสำเร็จ
-- 🎮 **50+** FiveM Scripts ที่พัฒนาแล้ว
 - 🔄 **24/7** Support และ Monitoring
 
 ### 🏆 เวอร์ชันและการอัปเดต
@@ -282,9 +205,6 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 
 © 2024 **Slow Inc**. All rights reserved.
 
-โปรเจ็กต์ของเราเป็นส่วนหนึ่งของ Planet City Server Management System  
-พัฒนาภายใต้มาตรฐานการพัฒนาซอฟต์แวร์ที่เข้มงวดและมีคุณภาพสูง
-
 ---
 
 <div align="center">
@@ -304,5 +224,5 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 ---
 
 <div align="center">
-<sub>Planet Management Discord Bot - Powering Planet City Community 🌍</sub>
+<sub>Slow Inc.🌍</sub>
 </div>
