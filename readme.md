@@ -23,8 +23,8 @@
 ### Core Developers
 - **[Slowgers](https://github.com/Slowgers)** - Lead Developer & System Architect
 - **[_InI4](#)** - Vice Leader & Tester
-- **[xenodev](https://github.com/xenodeve)** - Full-Stack Developer & Bot Specialist
-- **[akkanop-x](https://github.com/akkanop-x)** - Full-Stack Developer & Cyber Security
+- **[xenodev](https://github.com/xenodeve)** - FullStack Developer & Bot Specialist
+- **[akkanop-x](https://github.com/akkanop-x)** - FullStack Developer & Cyber Security
 - **[Thanathorn'Z](https://github.com/ThanathornZDev)** - BackEnd Developer & Game Developer
 - **[Paradise](https://github.com/CableMoMo2027)** - BackEnd Developer & Game Developer
 
