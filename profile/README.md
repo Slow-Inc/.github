@@ -1,19 +1,19 @@
 # Slow Inc 🚀
 
-> **บริษัทพัฒนาซอฟต์แวร์และระบบจัดการดิจิทัล**  
+> **พัฒนาซอฟต์แวร์และระบบจัดการดิจิทัล**  
 > *Creating innovative solutions for digital management systems*
 
 ---
 
 ## 🌟 เกี่ยวกับเรา
 
-**Slow Inc** เป็นบริษัทที่มุ่งเน้นการพัฒนาระบบจัดการดิจิทัลและโซลูชันทางเทคโนโลยี เราเชี่ยวชาญด้านการพัฒนา Discord Bot, ระบบจัดการเซิร์ฟเวอร์เกม, FiveM Lua Development, Website Development และเครื่องมือจัดการชุมชนออนไลน์
+**Slow Inc** เป็นบริษัทที่มุ่งเน้นการพัฒนาระบบจัดการดิจิทัลและโซลูชันทางเทคโนโลยี เราเชี่ยวชาญด้านการพัฒนา Discord Bot, ระบบจัดการเซิร์ฟเวอร์เกม, FiveM Lua Development, Website Development (React + TypeScript + TailwindCSS + Vite) และเครื่องมือจัดการชุมชนออนไลน์
 
 ### 🎯 ภารกิจของเรา
 - พัฒนาระบบจัดการที่ใช้งานง่ายและมีประสิทธิภาพ
 - สร้างโซลูชันที่ตอบโจทย์ความต้องการของชุมชนออนไลน์
 - พัฒนา FiveM Server Scripts และ Resources ที่มีประสิทธิภาพ
-- สร้าง Website และ Web Application ที่ทันสมัย
+- สร้าง Website และ Web Application ที่ทันสมัย (React + Vite + TailwindCSS)
 - ให้บริการที่มีคุณภาพและรองรับการใช้งานในระยะยาว
 
 ---
@@ -54,6 +54,7 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 #### 🛠️ เทคโนโลยีที่ใช้:
 ```
 • Node.js - JavaScript Runtime Environment
+• TypeScript - Type-safe JavaScript Development
 • Discord.js v14 - Discord API Wrapper  
 • Tesseract.js - OCR สำหรับการสแกน QR Code
 • Sharp & Jimp - การประมวลผลรูปภาพ
@@ -62,7 +63,6 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 • QRCode.js - สร้าง QR Code
 • Chalk - การแสดงผลสีใน Terminal
 ```
-
 #### 📁 Repository:
 🔗 **[GitHub - planet_management](https://github.com/Slow-Inc/planet_management)**
 
@@ -86,6 +86,7 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 • Lua Programming - Core FiveM Language
 • ESX Framework - Popular RP Framework
 • MySQL Database - Data Management
+• HeidiSQL - Database Administration Tool
 • Resource Optimization - Performance Tuning
 • Custom UI Development - NUI/HTML interfaces
 ```
@@ -115,7 +116,7 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 ## 🚀 บริการของเรา
 
 ### 🤖 Discord Bot Development
-- พัฒนา Discord Bot ตามความต้องการ
+- พัฒนา Discord Bot ตามความต้องการ (TypeScript/JavaScript)
 - ระบบ Moderation และ Management
 - Integration กับ API ภายนอก
 - ระบบ OCR และ Image Processing
@@ -129,10 +130,10 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 
 ### 🌐 Website Development
 - ระบบจัดการเนื้อหา (CMS)
-- Dashboard และ Analytics
+- Dashboard และ Analytics (React + TailwindCSS + Vite)
 - User Management Systems
 - Discord Bot Integration
-- Responsive Web Design
+- Responsive Web Design (TailwindCSS)
 - E-commerce Solutions
 
 ### 🎮 Game Server Management
@@ -143,7 +144,8 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 
 ### 💻 Full-Stack Development
 - API Development และ Integration
-- Database Design และ Optimization
+- Database Design และ Optimization (HeidiSQL)
+- Modern Frontend Stack (React + Vite + TailwindCSS)
 - Cloud Deployment และ DevOps
 - Security Implementation
 
@@ -153,6 +155,7 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -163,12 +166,15 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ESX](https://img.shields.io/badge/ESX-FF6B35?style=for-the-badge&logo=fivem&logoColor=white)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-326CE5?style=for-the-badge&logo=database&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
