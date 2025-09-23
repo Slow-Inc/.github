@@ -7,7 +7,7 @@
 
 ## 🌟 เกี่ยวกับเรา
 
-**Slow Inc** เป็นบริษัทที่มุ่งเน้นการพัฒนาระบบจัดการดิจิทัลและโซลูชันทางเทคโนโลยี เราเชี่ยวชาญด้านการพัฒนา Discord Bot, ระบบจัดการเซิร์ฟเวอร์เกม, FiveM Lua Development, Website Development (React + TypeScript + TailwindCSS + Vite) และเครื่องมือจัดการชุมชนออนไลน์
+**Slow Inc** เป็นบริษัทที่มุ่งเน้นการพัฒนาระบบจัดการดิจิทัลและโซลูชันทางเทคโนโลยี เราเชี่ยวชาญด้านการพัฒนา Discord Bot (Discord.js & Discord.py), ระบบจัดการเซิร์ฟเวอร์เกม, FiveM Lua Development, Website Development (React + TypeScript + TailwindCSS + Vite) และเครื่องมือจัดการชุมชนออนไลน์
 
 ### 🎯 ภารกิจของเรา
 - พัฒนาระบบจัดการที่ใช้งานง่ายและมีประสิทธิภาพ
@@ -22,7 +22,7 @@
 
 ### Core Developers
 - **[Slowgers](https://github.com/Slowgers)** - Lead Developer & System Architect
-- **[_InI4](#)** - Vice Leader & Tester
+- **[_InI4](#)** - Vice Leader Developer & Tester
 - **[xenodev](https://github.com/xenodeve)** - FullStack Developer & Bot Specialist
 - **[akkanop-x](https://github.com/akkanop-x)** - FullStack Developer & Cyber Security
 - **[Thanathorn'Z](https://github.com/ThanathornZDev)** - BackEnd Developer & Game Developer
@@ -37,10 +37,10 @@
 
 ## 🛠️ โปรเจ็กต์หลัก
 
-### 🤖 Planet Management Discord Bot
-> **ระบบจัดการเซิร์ฟเวอร์ Planet City ที่ครบครัน**
+### 🤖 Discord Bot Management
+> **ระบบจัดการเซิร์ฟเวอร์ FiveM ที่ครบครัน**
 
-Discord Bot สำหรับจัดการเซิร์ฟเวอร์ Planet City ที่พัฒนาด้วย Discord.js v14 พร้อมระบบ Whitelist, การตรวจสอบ QR Code และการจัดการข้อมูลผู้เล่น
+Discord Bot สำหรับจัดการเซิร์ฟเวอร์ FiveM ที่พัฒนาด้วย Discord.js v14 พร้อมระบบ Whitelist, การตรวจสอบ QR Code และการจัดการข้อมูลผู้เล่น
 
 #### ✨ คุณสมบัติเด่น:
 - 🎯 **ระบบ Whitelist** - จัดการคำขอเข้าร่วมเซิร์ฟเวอร์แบบอัตโนมัติ
@@ -55,7 +55,7 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 ```
 • Node.js - JavaScript Runtime Environment
 • TypeScript - Type-safe JavaScript Development
-• Discord.js v14 - Discord API Wrapper  
+• Discord.js v14 - Discord API Wrapper (JavaScript)
 • Tesseract.js - OCR สำหรับการสแกน QR Code
 • Sharp & Jimp - การประมวลผลรูปภาพ
 • Winston - Logging System
@@ -63,8 +63,6 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 • QRCode.js - สร้าง QR Code
 • Chalk - การแสดงผลสีใน Terminal
 ```
-#### 📁 Repository:
-🔗 **[GitHub - planet_management](https://github.com/Slow-Inc/planet_management)**
 
 
 ### 🎮 FiveM Lua Development
@@ -85,7 +83,7 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 ```
 • Lua Programming - Core FiveM Language
 • ESX Framework - Popular RP Framework
-• MySQL Database - Data Management
+• MySQL/MariaDB Database - Data Management
 • HeidiSQL - Database Administration Tool
 • Resource Optimization - Performance Tuning
 • Custom UI Development - NUI/HTML interfaces
@@ -116,7 +114,7 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 ## 🚀 บริการของเรา
 
 ### 🤖 Discord Bot Development
-- พัฒนา Discord Bot ตามความต้องการ (TypeScript/JavaScript)
+- พัฒนา Discord Bot ตามความต้องการ (TypeScript/JavaScript & Python)
 - ระบบ Moderation และ Management
 - Integration กับ API ภายนอก
 - ระบบ OCR และ Image Processing
@@ -126,7 +124,7 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 - ระบบ Roleplay และ Community Features
 - Server Optimization และ Performance Tuning
 - Custom UI/NUI Development
-- Database Integration และ Management
+- Database Integration และ Management (MySQL/MariaDB)
 
 ### 🌐 Website Development
 - ระบบจัดการเนื้อหา (CMS)
@@ -144,7 +142,7 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 
 ### 💻 Full-Stack Development
 - API Development และ Integration
-- Database Design และ Optimization (HeidiSQL)
+- Database Design และ Optimization (MySQL/MariaDB + HeidiSQL)
 - Modern Frontend Stack (React + Vite + TailwindCSS)
 - Cloud Deployment และ DevOps
 - Security Implementation
@@ -164,6 +162,7 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 
 ### Frameworks & Libraries  
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -174,6 +173,7 @@ Discord Bot สำหรับจัดการเซิร์ฟเวอร�
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-326CE5?style=for-the-badge&logo=database&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
