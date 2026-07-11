@@ -15,12 +15,12 @@
 
 ## เกี่ยวกับเรา
 
-**Slow Inc** เป็นทีมนักพัฒนาที่มุ่งเน้นการสร้างระบบจัดการดิจิทัลและเครื่องมือสำหรับชุมชนออนไลน์ โดยเฉพาะระบบนิเวศของเซิร์ฟเวอร์ FiveM — ตั้งแต่ Discord Bot, FiveM Scripts & Resources ไปจนถึง Website และ Web Application
+**Slow Inc** เป็นทีมนักพัฒนาที่สร้างซอฟต์แวร์ตั้งแต่เครื่องมือสำหรับชุมชนออนไลน์ไปจนถึงแพลตฟอร์มเว็บสเกลใหญ่ที่มี AI/ML pipeline ของตัวเอง ครอบคลุมทั้ง Discord Bot, FiveM Scripts & Resources, Website/Web Application และระบบ Machine Learning
 
 **สิ่งที่เรามุ่งเน้น:**
+- แพลตฟอร์มเว็บแบบ Full-Stack ที่ออกแบบให้สเกลได้ (Next.js/React + NestJS + microservices)
 - ระบบจัดการที่ใช้งานง่ายและมีประสิทธิภาพ สำหรับชุมชน Roleplay และ Community Server
 - FiveM Server Scripts และ Resources ที่ปรับแต่งได้ตามความต้องการ
-- Website และ Web Application ที่ทันสมัย (React + TypeScript + TailwindCSS + Vite)
 - บริการที่รองรับการใช้งานระยะยาว พร้อม Support อย่างต่อเนื่อง
 
 ---
@@ -38,7 +38,24 @@
 
 ---
 
-## โปรเจกต์เด่น — Planet City Discord Bot
+## โปรเจกต์เด่น
+
+### 📖 MangaDock — แพลตฟอร์มอ่านมังงะพร้อมระบบแปลด้วย AI
+
+โปรเจกต์ที่ซับซ้อนและสเกลใหญ่ที่สุดของทีม ([github.com/Slow-Inc/MangaDock](https://github.com/Slow-Inc/MangaDock)) — เว็บอ่านมังงะที่มี ML pipeline แปลภาพในตัวเอง แยกเป็น 3 services ที่ทำงานร่วมกัน พร้อม Docs portal ที่จำลอง data flow แบบ interactive
+
+- **Frontend** — Next.js 16 + React 19, Supabase Auth, Tailwind CSS 4
+- **Backend** — NestJS orchestration layer, multi-layer cache (Redis + on-disk L3), S3-compatible storage, Supabase (Auth + DB)
+- **MIT (Manga Image Translator)** — Python/PyTorch microservice: YOLOv8 text detection, diffusion-based inpainting (Flux Klein GGUF), manga-ocr, DenseCRF mask refinement และ line-breaking ที่รองรับหลายภาษา (ไทย/จีน/ญี่ปุ่น)
+- **Docs Portal** — เอกสารระบบแบบ interactive พร้อม live GitHub integration สำหรับ onboarding ทีม
+
+**สเกล:** ~1,000 tracked files · โค้ด TypeScript/Python รวมกว่า 100,000 บรรทัด · ครอบคลุมทดสอบด้วย Playwright E2E
+
+**Stack:** Next.js · React · NestJS · Supabase · Redis · PyTorch · FastAPI · Docker
+
+---
+
+### 🤖 Planet City Discord Bot
 
 ระบบจัดการเซิร์ฟเวอร์ FiveM แบบครบวงจร พัฒนาด้วย Discord.js v14 รองรับตั้งแต่การรับสมัครสมาชิกไปจนถึงการดูแลชุมชนแบบอัตโนมัติ
 
@@ -62,7 +79,10 @@
 พัฒนา Scripts และ Resources บนเฟรมเวิร์ก ESX สำหรับ Roleplay Server ครอบคลุม Vehicle Systems, Property Management, Job & Economy, Police/Government, Medical Systems, Phone & Communication รวมถึง Custom NUI และ Server Optimization
 
 ### Website & Web Application
-พัฒนาเว็บไซต์และเว็บแอปพลิเคชันด้วย React + TypeScript + TailwindCSS + Vite ครอบคลุม CMS, Dashboard/Analytics, User Management, Discord Bot Integration และ Responsive Web Design
+พัฒนาเว็บไซต์และเว็บแอปพลิเคชันด้วย Next.js/React + TypeScript + TailwindCSS + NestJS ครอบคลุม CMS, Dashboard/Analytics, User Management, Discord Bot Integration และ Responsive Web Design
+
+### AI/ML Engineering
+พัฒนาระบบ Machine Learning สำหรับ production เช่น Computer Vision pipeline (object detection, image inpainting), OCR และ multilingual NLP — ดูตัวอย่างจริงใน [MangaDock](https://github.com/Slow-Inc/MangaDock)
 
 ### Game Server Management
 เครื่องมือจัดการเซิร์ฟเวอร์เกม ตั้งแต่ Whitelist & Player Management, Server Monitoring, Community Management Tools ไปจนถึง Custom Plugin Development
@@ -81,18 +101,23 @@
 
 **Frameworks & Libraries**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![ESX](https://img.shields.io/badge/ESX-FF6B35?style=flat-square&logo=fivem&logoColor=white)
 
-**Databases & Tools**
+**Databases & Infrastructure**
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
