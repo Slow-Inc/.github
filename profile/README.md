@@ -15,7 +15,7 @@
 
 ## เกี่ยวกับเรา
 
-**Slow Inc** เป็นทีมนักพัฒนาที่สร้างซอฟต์แวร์ตั้งแต่เครื่องมือสำหรับชุมชนออนไลน์ไปจนถึงแพลตฟอร์มเว็บสเกลใหญ่ที่มี AI/ML pipeline ของตัวเอง ครอบคลุมทั้ง Discord Bot, FiveM Scripts & Resources, Website/Web Application และระบบ Machine Learning
+**T4 Labs** เป็นทีมนักพัฒนาที่สร้างซอฟต์แวร์ตั้งแต่เครื่องมือสำหรับชุมชนออนไลน์ไปจนถึงแพลตฟอร์มเว็บสเกลใหญ่ที่มี AI/ML pipeline ของตัวเอง ครอบคลุมทั้ง Discord Bot, FiveM Scripts & Resources, Website/Web Application และระบบ Machine Learning
 
 **สิ่งที่เรามุ่งเน้น:**
 - แพลตฟอร์มเว็บแบบ Full-Stack ที่ออกแบบให้สเกลได้ (Next.js/React + NestJS + microservices)
