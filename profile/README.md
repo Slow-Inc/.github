@@ -1,6 +1,6 @@
 <div align="center">
 
-# Slow Inc
+# T4 Labs
 
 **พัฒนาซอฟต์แวร์และระบบจัดการดิจิทัลสำหรับชุมชนออนไลน์**
 *Software & digital management systems for online communities*
